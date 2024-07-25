@@ -6,13 +6,13 @@ This is a web application built using Flask that interacts with a PostgreSQL dat
 
 ### Retrieve Test Cases
 
-![Retrieve Test Cases](path/to/retrieve_test_cases_image.png)
+![Retrieve Test Cases](Screenshot 2024-07-25 113513.png)
 
 Fetch all test cases from the database.
 
 ### Update Test Case Status
 
-![Update Test Case Status](path/to/update_test_case_status_image.png)
+![Update Test Case Status](Screenshot 2024-07-25 113529.png)
 
 Update the status of a specific test case.
 
