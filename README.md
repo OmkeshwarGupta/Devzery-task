@@ -4,8 +4,17 @@ This is a web application built using Flask that interacts with a PostgreSQL dat
 
 ## Features
 
-- **Retrieve Test Cases**: Fetch all test cases from the database.
-- **Update Test Case Status**: Update the status of a specific test case.
+### Retrieve Test Cases
+
+![Retrieve Test Cases](path/to/retrieve_test_cases_image.png)
+
+Fetch all test cases from the database.
+
+### Update Test Case Status
+
+![Update Test Case Status](path/to/update_test_case_status_image.png)
+
+Update the status of a specific test case.
 
 ## Technologies Used
 
